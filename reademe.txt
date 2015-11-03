@@ -4,4 +4,5 @@
 	3，git install  //NPM管理器会自动根据package.json安装项目必须的依赖包，之后在根目录下会多出一个node_modules目录   运行项目: $  node ./bin/www   访问：localhost:3000
 	4，创建远程仓库  git@github.com:daisycloud/Timix.git 
 	5，git remote add Timix git@github.com:daisycloud/Timix.git
-	6, $  git pull Timix master
+	6, $ git pull Timix master
+	7, $ git push 
