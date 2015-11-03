@@ -1,7 +1,7 @@
 --2015.11.03
-	1ï¼ŒExpress åˆ›å»ºé¡¹ç›®: $ express --ejs Timix
-	2ï¼Œgit init
-	3ï¼Œgit install  //NPMç®¡ç†å™¨ä¼šè‡ªåŠ¨æ ¹æ®package.jsonå®‰è£…é¡¹ç›®å¿…é¡»çš„ä¾èµ–åŒ…ï¼Œä¹‹ååœ¨æ ¹ç›®å½•ä¸‹ä¼šå¤šå‡ºä¸€ä¸ªnode_modulesç›®å½•   è¿è¡Œé¡¹ç›®: $  node ./bin/www   è®¿é—®ï¼šlocalhost:3000
-	4ï¼Œåˆ›å»ºè¿œç¨‹ä»“åº“  git@github.com:daisycloud/timix.git 
-	5ï¼Œgit remote add æœ¬åœ°reposå git@github.com:daisycloud/timix.git 
-	6,
+	1£¬Express ´´½¨ÏîÄ¿: $ express --ejs Timix
+	2£¬git init
+	3£¬git install  //NPM¹ÜÀíÆ÷»á×Ô¶¯¸ù¾İpackage.json°²×°ÏîÄ¿±ØĞëµÄÒÀÀµ°ü£¬Ö®ºóÔÚ¸ùÄ¿Â¼ÏÂ»á¶à³öÒ»¸önode_modulesÄ¿Â¼   ÔËĞĞÏîÄ¿: $  node ./bin/www   ·ÃÎÊ£ºlocalhost:3000
+	4£¬´´½¨Ô¶³Ì²Ö¿â  git@github.com:daisycloud/Timix.git 
+	5£¬git remote add Timix git@github.com:daisycloud/Timix.git
+	6, $  git pull Timix master
